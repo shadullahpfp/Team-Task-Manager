@@ -1,7 +1,0 @@
-fastapi[standard]
-sqlalchemy
-pydantic
-pydantic-settings
-passlib[bcrypt]
-python-jose[cryptography]
-python-multipart
